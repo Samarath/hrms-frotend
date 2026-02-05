@@ -23,3 +23,11 @@ Navigate to the `frontend` folder and run:
 ```bash
 npm install
 ```
+
+# For local development
+
+VITE_API_URL=[http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+# For production (Example)
+
+# VITE_API_URL=[https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
